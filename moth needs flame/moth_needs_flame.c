@@ -3,6 +3,6 @@
 int	main(void)
 {
 	printf("Please moth requires the flame");
-	printf("That is right")
+	printf("Im in flames right, please help")
 	return (0);
 }
